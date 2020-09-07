@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/GrzegorzKondracki/simple-page-in-react/static/css/main.c2656705.chunk.css",
+    "main.js": "/GrzegorzKondracki/simple-page-in-react/static/js/main.80f7269c.chunk.js",
+    "main.js.map": "/GrzegorzKondracki/simple-page-in-react/static/js/main.80f7269c.chunk.js.map",
+    "runtime-main.js": "/GrzegorzKondracki/simple-page-in-react/static/js/runtime-main.74a85fef.js",
+    "runtime-main.js.map": "/GrzegorzKondracki/simple-page-in-react/static/js/runtime-main.74a85fef.js.map",
+    "static/js/2.822b2fb2.chunk.js": "/GrzegorzKondracki/simple-page-in-react/static/js/2.822b2fb2.chunk.js",
+    "static/js/2.822b2fb2.chunk.js.map": "/GrzegorzKondracki/simple-page-in-react/static/js/2.822b2fb2.chunk.js.map",
+    "index.html": "/GrzegorzKondracki/simple-page-in-react/index.html",
+    "precache-manifest.6279cd96bee7d7da41109fdad9fa87ff.js": "/GrzegorzKondracki/simple-page-in-react/precache-manifest.6279cd96bee7d7da41109fdad9fa87ff.js",
+    "service-worker.js": "/GrzegorzKondracki/simple-page-in-react/service-worker.js",
+    "static/css/main.c2656705.chunk.css.map": "/GrzegorzKondracki/simple-page-in-react/static/css/main.c2656705.chunk.css.map",
+    "static/js/2.822b2fb2.chunk.js.LICENSE.txt": "/GrzegorzKondracki/simple-page-in-react/static/js/2.822b2fb2.chunk.js.LICENSE.txt",
+    "static/media/header1.jpg": "/GrzegorzKondracki/simple-page-in-react/static/media/header1.2ac8ce70.jpg",
+    "static/media/header2.jpg": "/GrzegorzKondracki/simple-page-in-react/static/media/header2.9cd55789.jpg",
+    "static/media/header3.jpg": "/GrzegorzKondracki/simple-page-in-react/static/media/header3.1bf9ffb2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74a85fef.js",
+    "static/js/2.822b2fb2.chunk.js",
+    "static/css/main.c2656705.chunk.css",
+    "static/js/main.80f7269c.chunk.js"
+  ]
+}
