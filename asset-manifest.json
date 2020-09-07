@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/GrzegorzKondracki/simple-page-in-react/static/css/main.c2656705.chunk.css",
-    "main.js": "/GrzegorzKondracki/simple-page-in-react/static/js/main.658d64b7.chunk.js",
-    "main.js.map": "/GrzegorzKondracki/simple-page-in-react/static/js/main.658d64b7.chunk.js.map",
-    "runtime-main.js": "/GrzegorzKondracki/simple-page-in-react/static/js/runtime-main.74a85fef.js",
-    "runtime-main.js.map": "/GrzegorzKondracki/simple-page-in-react/static/js/runtime-main.74a85fef.js.map",
-    "static/js/2.822b2fb2.chunk.js": "/GrzegorzKondracki/simple-page-in-react/static/js/2.822b2fb2.chunk.js",
-    "static/js/2.822b2fb2.chunk.js.map": "/GrzegorzKondracki/simple-page-in-react/static/js/2.822b2fb2.chunk.js.map",
-    "index.html": "/GrzegorzKondracki/simple-page-in-react/index.html",
-    "precache-manifest.e9a21c483d7004d7502a68418735addf.js": "/GrzegorzKondracki/simple-page-in-react/precache-manifest.e9a21c483d7004d7502a68418735addf.js",
-    "service-worker.js": "/GrzegorzKondracki/simple-page-in-react/service-worker.js",
-    "static/css/main.c2656705.chunk.css.map": "/GrzegorzKondracki/simple-page-in-react/static/css/main.c2656705.chunk.css.map",
-    "static/js/2.822b2fb2.chunk.js.LICENSE.txt": "/GrzegorzKondracki/simple-page-in-react/static/js/2.822b2fb2.chunk.js.LICENSE.txt",
-    "static/media/header1.jpg": "/GrzegorzKondracki/simple-page-in-react/static/media/header1.2ac8ce70.jpg",
-    "static/media/header2.jpg": "/GrzegorzKondracki/simple-page-in-react/static/media/header2.9cd55789.jpg",
-    "static/media/header3.jpg": "/GrzegorzKondracki/simple-page-in-react/static/media/header3.1bf9ffb2.jpg"
+    "main.css": "/simple-page-in-react/static/css/main.c2656705.chunk.css",
+    "main.js": "/simple-page-in-react/static/js/main.c23c2e1b.chunk.js",
+    "main.js.map": "/simple-page-in-react/static/js/main.c23c2e1b.chunk.js.map",
+    "runtime-main.js": "/simple-page-in-react/static/js/runtime-main.b6e375c5.js",
+    "runtime-main.js.map": "/simple-page-in-react/static/js/runtime-main.b6e375c5.js.map",
+    "static/js/2.822b2fb2.chunk.js": "/simple-page-in-react/static/js/2.822b2fb2.chunk.js",
+    "static/js/2.822b2fb2.chunk.js.map": "/simple-page-in-react/static/js/2.822b2fb2.chunk.js.map",
+    "index.html": "/simple-page-in-react/index.html",
+    "precache-manifest.4d151cc3be0f3218b47719c22a45963a.js": "/simple-page-in-react/precache-manifest.4d151cc3be0f3218b47719c22a45963a.js",
+    "service-worker.js": "/simple-page-in-react/service-worker.js",
+    "static/css/main.c2656705.chunk.css.map": "/simple-page-in-react/static/css/main.c2656705.chunk.css.map",
+    "static/js/2.822b2fb2.chunk.js.LICENSE.txt": "/simple-page-in-react/static/js/2.822b2fb2.chunk.js.LICENSE.txt",
+    "static/media/header1.jpg": "/simple-page-in-react/static/media/header1.2ac8ce70.jpg",
+    "static/media/header2.jpg": "/simple-page-in-react/static/media/header2.9cd55789.jpg",
+    "static/media/header3.jpg": "/simple-page-in-react/static/media/header3.1bf9ffb2.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.74a85fef.js",
+    "static/js/runtime-main.b6e375c5.js",
     "static/js/2.822b2fb2.chunk.js",
     "static/css/main.c2656705.chunk.css",
-    "static/js/main.658d64b7.chunk.js"
+    "static/js/main.c23c2e1b.chunk.js"
   ]
 }
