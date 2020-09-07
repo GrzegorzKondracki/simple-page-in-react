@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "258432c943d09ae3c0af775d8a50fdb6",
+    "revision": "a1277630e7f446f04a93d43178ad11a2",
     "url": "/GrzegorzKondracki/simple-page-in-react/index.html"
   },
   {
-    "revision": "c2370eee2872a5b884a8",
+    "revision": "d68769bcf96e3747e9b4",
     "url": "/GrzegorzKondracki/simple-page-in-react/static/css/main.c2656705.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/GrzegorzKondracki/simple-page-in-react/static/js/2.822b2fb2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c2370eee2872a5b884a8",
-    "url": "/GrzegorzKondracki/simple-page-in-react/static/js/main.80f7269c.chunk.js"
+    "revision": "d68769bcf96e3747e9b4",
+    "url": "/GrzegorzKondracki/simple-page-in-react/static/js/main.658d64b7.chunk.js"
   },
   {
     "revision": "c7a1ced32591d04fdbbc",
